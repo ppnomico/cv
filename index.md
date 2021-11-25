@@ -4,6 +4,14 @@
 <head>
   <meta charset="utf-8">
   <title>😍David's Personal Site</title>
+  
+  <style>
+    body {background-color: #ffdab9; }
+    hr {background-color: black; }
+    img {
+    width: 40%;
+    }
+  </style>
 </head>
 
 <body>
