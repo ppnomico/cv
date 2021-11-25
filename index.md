@@ -9,7 +9,7 @@
     body {background-color: #ffdab9; }
     hr {background-color: black; }
     img {
-    width: 40%;
+    width: 60%;
     }
   </style>
 </head>
